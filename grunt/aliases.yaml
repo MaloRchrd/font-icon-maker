@@ -1,6 +1,0 @@
-
-default:
-- 'svgmin'
-- 'webfont'
-- 'compass'
-- 'clean'
